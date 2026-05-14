@@ -20,7 +20,11 @@ Lead generation strategy locked. 12-month goal: acquire 10 new clients. Initial 
 
 - **Buyer focus:** CEO + key decision-makers at companies between **$10M and "1 million employees"** (transcription likely meant "$200M revenue" or similar upper bound). Treat as $10M–$200M.
 
-- **Geography:** "Northwest US" in transcription is likely an error — playbook and Apr 27 call confirm **Northeast US** (CT, NY, NJ, MA, PA). Will validate at next sync. Expansion potential to Midwest (Chicago presence) for selective accounts.
+- **Geography (resolved from transcript review 2026-05-12):**
+  - The "Northwest US" mention in the summary was a language slip by Matteo, immediately corrected by Dan in the actual transcript.
+  - Verbatim from Dan: *"The preference really is northeast. But know that we have a team member in Chicago. And Chicago is a big market. We can easily get to Detroit and other cities between here and Chicago."*
+  - Also Dan: *"If that doesn't bring us enough of a return then we can go... anything from the Midwest to the east coast we can pretty easily do. Because we can get there on a flight in an hour. So Southeast also — just a couple hours for us."*
+  - **Net targeting territory: Northeast US primary; Midwest (Chicago + driving radius — IL, IN, MI, OH, WI) and Southeast (DC, VA, NC, GA) as acceptable Tier 2; anywhere ~1-hour flight east of CT as Tier 3 fallback.**
 
 - **Multi-channel:**
   - Cold email (primary, Kinetyca-run)
@@ -85,7 +89,7 @@ Pre-launch. Targeting refinements confirmed:
 
 ## Open Questions / Items to Validate
 
-- Geographic bound: confirm "Northeast US" vs "Northwest US" (Apr 27 + playbook say Northeast; May 7 transcript shows Northwest — likely error).
+- ~~Geographic bound: confirm "Northeast US" vs "Northwest US"~~ **RESOLVED 2026-05-12 (transcript review):** Northeast primary; Midwest (Chicago + driving radius) and Southeast acceptable; ~1-hour east-coast flight radius as fallback. See updated Decisions section above.
 - Upper revenue bound: confirm whether $200M is the ceiling (per playbook) or higher (transcript ambiguous).
 - LinkedIn channel: confirm whether HeyReach is the chosen tool or another platform.
 - Clay routing: confirm exact criteria for "flagged" leads (score threshold, signal threshold, etc.).

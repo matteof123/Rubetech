@@ -47,7 +47,13 @@ Revenue trajectory: ~$50–75K last year (Aug 2025 launch) → ~$300K current pa
 **Firmographic:**
 - **Industry:** Specialty Healthcare (home care, behavioral health, digital health), Specialty Veterinary (specialty centers, ER, surgical), Multi-Location Consumer Services (premium pet, concierge, fitness), HR Staffing & Recruiting (specialty), FinServ — Payment Solutions/ISOs. Secondary: Construction (specialty trades), Retail multi-location, Insurance brokerages.
 - **Company size:** $10M–$200M for Fractional CTO. $1M–$50M for RevOps Build. 30–500 employees. Sweet spot $10M–$100M.
-- **Geography:** Northeast US (CT, NY, NJ, MA, PA) for Fractional CTO. National for RevOps Build. Midwest representation via Chicago presence.
+- **Geography (refined May 7 strategy call):**
+  - **Tier 1 — Primary:** Northeast US (CT, NY, NJ, MA, PA, RI, NH, VT). Default for all Fractional CTO campaigns; in-person delivery from Westport HQ.
+  - **Tier 2 — Acceptable secondary:** Midwest within driving distance of Chicago (IL, IN, MI, OH, WI). Dan confirmed: "we have a team member in Chicago. We can easily get to Detroit and other cities between here and Chicago."
+  - **Tier 2 — Acceptable secondary:** Southeast US (DC, VA, NC, GA) — "just a couple hours by flight."
+  - **Tier 3 — Fallback only if T1+T2 underperform:** anywhere within ~1-hour flight east of CT.
+  - **National (no geo restriction):** RevOps Build only (remote-deliverable).
+  - **Out of scope:** West Coast, Mountain West, Texas for Fractional CTO.
 - **Tech stack signals:** HubSpot or Salesforce purchased but under-used (under 50% adoption); spreadsheets running critical processes; recent EMR/PMS/ATS purchase without integration; legacy QuickBooks + Excel reporting.
 - **Funding stage:** Pre-IPO, founder-led, PE-backed, recently raised Series A/B (board pressure for tech roadmap).
 
@@ -83,6 +89,116 @@ Revenue trajectory: ~$50–75K last year (Aug 2025 launch) → ~$300K current pa
 
 **Underlying audience (champions, not decision-makers):**
 COOs & VPs of Operations · Marketing Ops leads tasked with "make HubSpot work" · Finance leaders trying to forecast against partial data · IT/Systems managers fending off shadow IT · RevOps leads (often first hire in the seat).
+
+## Title Bank — for Sales Nav / Apollo / Clay filters
+
+Full title coverage per vertical. Use as the OR-list when building lead lists. Tier 1 = primary decision-maker (Fractional CTO budget authority). Tier 2 = operational leader (subvertical-specific). Tier 3 = RevOps Build champion / smaller-deal entry point.
+
+### Specialty Healthcare V1
+
+**Tier 1 — CEO / Founder family:**
+- CEO, Chief Executive Officer
+- Founder, Co-Founder, Founder & CEO, Co-Founder & CEO
+- President, President & CEO
+- Owner, Owner & CEO
+- Managing Partner, Principal, Managing Director, Executive Director
+
+**Tier 1 — COO / Operations family:**
+- COO, Chief Operating Officer, President & COO
+- VP Operations, VP of Operations
+- Director of Operations, Operations Director, Head of Operations
+- Chief Operating Officer of Clinical Services
+
+**Tier 2 — Home Care subvertical:**
+- Agency Director
+- Executive Director (of Home Care Agency)
+- Director of Clinical Services, Director of Patient Care, Director of Care Services
+- VP of Clinical Operations
+- Multi-Branch Director
+
+**Tier 2 — Behavioral Health subvertical (outpatient, IOP, PHP):**
+- Clinical Director, Executive Clinical Director
+- Chief Clinical Officer
+- Director of Behavioral Health Services
+- Director of Clinical Operations
+- VP of Clinical Programs
+- Program Director
+
+**Tier 2 — Specialty Practice subvertical (orthopedic, cardiology, oncology billing):**
+- Practice Administrator, Practice Manager, Practice Director
+- Executive Director (of practice)
+- Director of Practice Operations
+- Director of Revenue Cycle Management (RCM)
+- Director of Billing
+- VP Revenue Cycle
+
+**Tier 3 — RevOps Build champions:**
+- VP Sales, VP of Sales
+- VP Marketing, VP of Marketing
+- Chief of Staff
+- VP of Strategy
+- RevOps Director, Director of Revenue Operations
+- Director of Sales Operations, Head of RevOps
+
+**❌ Exclude for Healthcare:**
+- CTO / Chief Technology Officer / VP Engineering (per "skip when founder/CEO has CTO background")
+- CIO / Chief Information Officer, Director of IT, VP of IT (internal IT team — not buyer)
+- MD / Physician / Nurse / RN / LPN (clinical role without ownership — not buyer)
+- Hospital System / Health System CEOs at $200M+ (out of revenue band, Epic/Cerner-locked)
+
+**Copy-paste Apollo/Sales Nav title filter (Healthcare V1):**
+```
+CEO, Chief Executive Officer, Founder, Co-Founder, Owner, President, Managing Partner, Executive Director, COO, Chief Operating Officer, VP Operations, VP of Operations, Director of Operations, Operations Director, Agency Director, Clinical Director, Executive Clinical Director, Chief Clinical Officer, Practice Administrator, Practice Manager, Practice Director, Director of Practice Operations, Director of Revenue Cycle Management, Director of Billing, VP Revenue Cycle, Chief of Staff, RevOps Director, Director of Revenue Operations
+```
+
+### Specialty Veterinary V2
+
+**Tier 1 — CEO / Owner family (clinician-owner is common):**
+- CEO, Chief Executive Officer, Founder & CEO, Co-Founder & CEO
+- President, President & CEO
+- Owner, Hospital Owner, Practice Owner, Co-Owner, Managing Owner
+- Founder, Founding Veterinarian
+- DVM Owner, Owner DVM, Practice Owner DVM, Veterinarian & Owner
+
+**Tier 1 — Medical Director family (clinician-leader, often = owner):**
+- Medical Director, Veterinary Medical Director
+- Chief Medical Officer
+- Chief of Staff (vet-specific)
+- Head Veterinarian, Lead Specialist
+- Director of Veterinary Services
+- Director of Surgery, Surgical Director
+- Director of Emergency & Critical Care
+- Director of Internal Medicine
+
+**Tier 2 — Operations layer (Hospital Administrator persona):**
+- Hospital Administrator, Practice Administrator
+- Practice Manager, Hospital Manager
+- Operations Manager
+- Director of Operations, Operations Director
+- General Manager (Veterinary Hospital)
+- Multi-Site Hospital Administrator
+- Regional Manager (multi-location specialty groups)
+- Director of Practice Management
+- VP of Operations (specialty vet groups)
+- COO (large specialty groups)
+
+**Tier 3 — RevOps Build champions (only $5M+ multi-location groups):**
+- Director of Operations
+- Director of Practice Management
+- VP Operations
+- Chief of Staff (admin sense, not clinical)
+
+**❌ Exclude for Veterinary:**
+- General practice DVM (non-specialty) — PE-consolidated, wrong shape
+- Solo-doctor DVM without ownership — not buyer
+- Vet Tech, Veterinary Technician, RVT, Veterinary Assistant — not buyer
+- Pet Care Specialist, Groomer, Kennel Manager — wrong vertical (Consumer V3 if multi-location)
+- Mars Petcare / VCA / BluePearl / NVA / Banfield titles — PE-consolidated platforms, out of fragmented-specialty target
+
+**Copy-paste Apollo/Sales Nav title filter (Veterinary V2):**
+```
+CEO, Chief Executive Officer, Founder, Co-Founder, Owner, Hospital Owner, Practice Owner, President, Medical Director, Veterinary Medical Director, Chief Medical Officer, Chief of Staff, Head Veterinarian, Director of Veterinary Services, Hospital Administrator, Practice Administrator, Practice Manager, Hospital Manager, Operations Manager, Director of Operations, General Manager, Multi-Site Hospital Administrator, Regional Manager, VP of Operations, COO
+```
 
 ## Messaging Angles
 
