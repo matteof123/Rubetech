@@ -9,847 +9,657 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier >>
 endobj
 4 0 obj
-<< /Length 4254 >>
+<< /Length 4024 >>
 stream
 0.478 0.122 0.239 rg
 BT
 /F2 20.0 Tf
 1 0 0 1 54.0 726.0 Tm
-(Construction Estimating - Optimized Cold Copy) Tj
+(Construction Estimating - Optimized Cold Copy \(v2\)) Tj
 ET
 0.300 0.300 0.300 rg
 BT
-/F1 8.5 Tf
+/F1 9.0 Tf
 1 0 0 1 54.0 701.0 Tm
-(Optimized: 2026-06-17   |   Campaign: Construction Estimating \(commercial GCs\)   |   Sender: Dan Rubenstein) Tj
+(Optimized 2026-06-17  -  Campaign: Construction Estimating \(commercial GCs\)  -  Sender: Dan Rubenstein) Tj
 ET
-0.300 0.300 0.300 rg
+0.100 0.100 0.100 rg
 BT
-/F1 8.5 Tf
-1 0 0 1 54.0 690.0 Tm
-(Source: RubeTech Campaigns sheet \(Construction Estimating tab\)) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 684.0 Tm
+(Tighter copy, two distinct angles, no follow-up language anywhere. Every email opens with one) Tj
 ET
-0.300 0.300 0.300 rg
+0.100 0.100 0.100 rg
 BT
-/F1 8.5 Tf
-1 0 0 1 54.0 679.0 Tm
-(Context: June 10 Weekly Sync \(Dan's estimating pain + proof\) + Campaign Strategy v2 handover) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 669.5 Tm
+(AI-written line personalised to the prospect's company. Structure first, then rendered) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 655.0 Tm
+(examples.) Tj
 ET
 0.478 0.122 0.239 rg
 BT
 /F2 14.0 Tf
-1 0 0 1 54.0 652.0 Tm
-(What changed and why) Tj
+1 0 0 1 54.0 624.5 Tm
+(Email 1 - the manual consolidation pain) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F1 10.5 Tf
-1 0 0 1 54.0 628.0 Tm
-(Three asks: remove spam words, cut length, make it really personalised.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 11.5 Tf
-1 0 0 1 54.0 602.5 Tm
-(1. Spam words / deliverability triggers removed from Touch 1) Tj
+1 0 0 1 54.0 600.5 Tm
+(Subject A: sub-estimates at {{company}}) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F1 10.5 Tf
-1 0 0 1 54.0 582.5 Tm
-(Filters and the human "this is a pitch" radar both react to dollar figures, percentages, and) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 568.0 Tm
-(quantified-savings claims stacked in the first email. Pulled out of Touch 1:) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 550.5 Tm
-(- $50M+, $1.3M \(dollar signs\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 533.0 Tm
-(- 75% \(percentage\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 515.5 Tm
-(- 20+ hours a week \(quantified-savings claim up front\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 498.0 Tm
-(- save / saved) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 480.5 Tm
-(- softened "custom AI estimating engine" to plain language. Dan's note on the June 10) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 466.0 Tm
-(call: a generic "just another AI message" is what kills these. The hard numbers and the AI) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 451.5 Tm
-(framing still live in the one-page breakdown PDF, where a warm, opted-in reader wants) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 437.0 Tm
-(them.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 11.5 Tf
-1 0 0 1 54.0 411.5 Tm
-(2. Length) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 391.5 Tm
-(Touch 1 went from ~150 words to ~90. Touch 2 from ~120 to ~80. One idea per paragraph, one ask.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 11.5 Tf
-1 0 0 1 54.0 366.0 Tm
-(3. Personalisation) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 348.0 Tm
-(- Tightened the Clay opener prompt to force a concrete detail \(sector, region, project) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 333.5 Tm
-(type, recent award\), capped at 20 words so it reads like a peer wrote it.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 316.0 Tm
-(- The pain line now mirrors their Tuesday \("an estimator loses half the week"\), not a) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 301.5 Tm
-(generic stat.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 284.0 Tm
-(- Added an optional second merge \({{trade_or_sector}}\) for the specialty-trades variant so) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 62.0 269.5 Tm
-(HVAC/plumbing/roofing reads native.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 250.0 Tm
-(Rules kept: no em dashes, zero links in Touch 1, thread stays intact, personalise Touch 1 only.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 14.0 Tf
-1 0 0 1 54.0 219.5 Tm
-(Subject lines \(Touch 1 - test two, split evenly\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 197.5 Tm
-(- sub-estimates at {{company}}) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 180.0 Tm
-(- the bid that gets there first) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 14.0 Tf
-1 0 0 1 54.0 149.5 Tm
-(Touch 1 - Day 0) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 10.5 Tf
-1 0 0 1 54.0 122.5 Tm
-(Plain reference) Tj
+1 0 0 1 54.0 581.0 Tm
+(Subject B: the bid that gets there first) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 104.5 Tm
+1 0 0 1 68.0 562.5 Tm
 (Hi {{first_name}},) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 88.3 Tm
+1 0 0 1 68.0 546.3 Tm
 () Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 72.1 Tm
+1 0 0 1 68.0 530.1 Tm
 ({{AI_OPENER}} How is your team pulling sub-estimates together right now?) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 55.9 Tm
+1 0 0 1 68.0 513.9 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 497.7 Tm
+(Most precon teams still do it by hand: a JPEG from one sub, a spreadsheet from) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 481.5 Tm
+(the next, a PDF buried in a thread, and an estimator stuck turning it all into) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 465.3 Tm
+(one comparable bid tab.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 449.1 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 432.9 Tm
+(We built a system for a commercial GC that reads every format and structures it) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 416.7 Tm
+(automatically. The estimator skips the busywork.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 400.5 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 384.3 Tm
+(Want a one-page breakdown of how it would fit your team?) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 368.1 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 351.9 Tm
+(Dan Rubenstein) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 335.7 Tm
+(Founder, RubeTech. Built and sold four companies before this one.) Tj
+ET
+0.478 0.122 0.239 rg
+BT
+/F2 14.0 Tf
+1 0 0 1 54.0 307.5 Tm
+(Email 2 - different angle: lost on speed, not price) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 283.5 Tm
+(Thread reply that reads as a fresh, standalone message.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 264.0 Tm
+(Subject A: lost on speed, not price) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 244.5 Tm
+(Subject B: the bid that went out late) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 226.0 Tm
+(Hi {{first_name}},) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 209.8 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 193.6 Tm
+({{AI_OPENER}}) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 177.4 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 161.2 Tm
+(GCs your size rarely lose bids on price. They lose them on speed. While your) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 145.0 Tm
+(estimator spends two days assembling a bid tab by hand, the GC who structured) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 128.8 Tm
+(theirs in an hour is already in front of the client.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 112.6 Tm
+() Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 96.4 Tm
+(We gave one commercial GC the same estimating team and double the bids out the) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 80.2 Tm
+(door, with no new hires.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 64.0 Tm
 () Tj
 ET
 endstream
 endobj
 5 0 obj
-<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 10 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
 endobj
 6 0 obj
-<< /Length 4172 >>
+<< /Length 4483 >>
 stream
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
 1 0 0 1 68.0 732.0 Tm
-(Most precon teams still do it by hand. A sub sends a JPEG, the next a) Tj
+(Want the one-page breakdown?) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
 1 0 0 1 68.0 715.8 Tm
-(spreadsheet, a third a PDF buried in a thread, and an estimator loses half) Tj
+() Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
 1 0 0 1 68.0 699.6 Tm
-(the week turning it into one comparable bid tab.) Tj
+(Dan Rubenstein) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
 1 0 0 1 68.0 683.4 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 667.2 Tm
-(We built something for a commercial GC that reads every format and structures) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 651.0 Tm
-(it for them automatically. Their estimators got most of that week back, and) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 634.8 Tm
-(bids started going out the door first.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 618.6 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 602.4 Tm
-(I wrote up a one-page breakdown of how it would fit a precon team like yours.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 586.2 Tm
-(Want it? One reply.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 570.0 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 553.8 Tm
-(Dan Rubenstein) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 537.6 Tm
-(Founder, RubeTech) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 521.4 Tm
-(Built and sold four companies before this one.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 10.5 Tf
-1 0 0 1 54.0 501.2 Tm
-(Spintax \(build with this\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 483.2 Tm
-(Hi {{first_name}},) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 467.0 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 450.8 Tm
-({{AI_OPENER}} How is your team {pulling|putting} sub-estimates together {right now|these days}?) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 434.6 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 418.4 Tm
-({Most|Nearly every} precon teams still do it by hand. A sub sends a JPEG, the) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 402.2 Tm
-(next a spreadsheet, a third a PDF {buried in|lost in} a thread, and an estimator) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 386.0 Tm
-(loses {half the week|hours every week} turning it into one comparable bid tab.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 369.8 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 353.6 Tm
-(We built something for a commercial GC that reads every format and structures it) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 337.4 Tm
-(for them automatically. Their estimators got {most of that week|that time} back,) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 321.2 Tm
-(and bids started going out {the door first|first}.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 305.0 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 288.8 Tm
-(I wrote up a one-page breakdown of how it would fit a precon team like yours.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 272.6 Tm
-({Want it? One reply.|Say the word and it is in your inbox.}) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 256.4 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 240.2 Tm
-(Dan Rubenstein) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 224.0 Tm
-(Founder, RubeTech) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 207.8 Tm
-(Built and sold four companies before this one.) Tj
+(RubeTech) Tj
 ET
 0.478 0.122 0.239 rg
 BT
 /F2 14.0 Tf
-1 0 0 1 54.0 179.6 Tm
-(Touch 2 - Day 4 \(thread reply\)) Tj
+1 0 0 1 54.0 655.2 Tm
+(AI personalisation - how it works \(structure\)) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 633.2 Tm
+(- Every email opens with {{AI_OPENER}}: one sentence Clay writes from the prospect's) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 62.0 618.7 Tm
+(website, slotted as the first line so it reads like Dan wrote it for them.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 601.2 Tm
+(- Email 1 opener: name a concrete fact \(sectors, region, project types\) and hand straight) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 62.0 586.7 Tm
+(into the sub-estimate question.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 569.2 Tm
+(- Email 2 opener: name a fact tied to their market or bid volume and set up the speed) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 62.0 554.7 Tm
+(angle.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 537.2 Tm
+(- If Clay finds nothing usable it outputs FALLBACK \(a role-level line, no fabrication\).) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 519.7 Tm
+(- No numbers, awards, or project names unless they appear on the site. A fabricated opener) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 62.0 505.2 Tm
+(burns the lead.) Tj
 ET
 0.478 0.122 0.239 rg
 BT
-/F2 10.5 Tf
-1 0 0 1 54.0 152.6 Tm
-(Plain reference) Tj
+/F2 11.0 Tf
+1 0 0 1 54.0 479.7 Tm
+(Clay prompt - Email 1) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 134.6 Tm
-(Hi {{first_name}},) Tj
+1 0 0 1 68.0 460.7 Tm
+(Write the first line of a cold email to {{first_name}}, {{title}} at) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 118.4 Tm
-() Tj
+1 0 0 1 68.0 444.5 Tm
+({{company}}, a commercial construction company. Source: {{scraped_text}}.) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 102.2 Tm
-(One more angle, then I will leave it.) Tj
+1 0 0 1 68.0 428.3 Tm
+(One sentence, 20 words max. Name something concrete and specific \(sectors they) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 86.0 Tm
-() Tj
+1 0 0 1 68.0 412.1 Tm
+(build in, region, project types, a recent project\) and connect it to the volume) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 69.8 Tm
-(The real cost of manual bid assembly is not the hours. It is speed. When a bid) Tj
+1 0 0 1 68.0 395.9 Tm
+(of sub-estimates their precon team handles. It must lead naturally into:) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 379.7 Tm
+("How is your team pulling sub-estimates together right now?") Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 363.5 Tm
+(Only facts from the source. No compliments, no em dashes. If nothing usable,) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 347.3 Tm
+(output FALLBACK.) Tj
+ET
+0.478 0.122 0.239 rg
+BT
+/F2 11.0 Tf
+1 0 0 1 54.0 324.1 Tm
+(Clay prompt - Email 2) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 305.1 Tm
+(Write the first line of a cold email to {{first_name}}, {{title}} at) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 288.9 Tm
+({{company}}, a commercial construction company. Source: {{scraped_text}}.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 272.7 Tm
+(One sentence, 20 words max. Name something about their market, growth, or bid) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 256.5 Tm
+(volume and connect it to bid speed being a competitive edge. It must lead into a) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 240.3 Tm
+(point about losing bids on speed rather than price.) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 224.1 Tm
+(Only facts from the source. No compliments, no em dashes. If nothing usable,) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 207.9 Tm
+(output FALLBACK.) Tj
+ET
+0.478 0.122 0.239 rg
+BT
+/F2 14.0 Tf
+1 0 0 1 54.0 179.7 Tm
+(Rendered examples \(illustrative - three sample prospects\)) Tj
+ET
+0.478 0.122 0.239 rg
+BT
+/F2 11.0 Tf
+1 0 0 1 54.0 149.7 Tm
+(Email 1, rendered) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 129.7 Tm
+(Mike - VP Precon, healthcare/civil GC, Carolinas) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 111.2 Tm
+(Hi Mike,) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 95.0 Tm
+(You run commercial healthcare and civil work across the Carolinas, so a lot of) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 78.8 Tm
+(trades feed into every bid. How is your team pulling sub-estimates together) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F3 9.0 Tf
+1 0 0 1 68.0 62.6 Tm
+(right now?) Tj
 ET
 endstream
 endobj
 7 0 obj
-<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 10 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
 endobj
 8 0 obj
-<< /Length 4292 >>
+<< /Length 2938 >>
 stream
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 732.0 Tm
-(tab takes your team two days to build and could be done in minutes, the other) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 732.0 Tm
+(Sarah - Chief Estimator, multifamily builder, New England) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 715.8 Tm
-(GC gets in front of the client first.) Tj
+1 0 0 1 68.0 713.5 Tm
+(Hi Sarah,) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 699.6 Tm
-() Tj
+1 0 0 1 68.0 697.3 Tm
+(With the multifamily and mixed-use volume you are putting up across New England,) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 683.4 Tm
-(We handle the intake side too: every invited sub gets reached by phone, email,) Tj
+1 0 0 1 68.0 681.1 Tm
+(your estimators are fielding sub bids in every format. How is your team pulling) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 667.2 Tm
-(and text, and they submit through one portal instead of you chasing files) Tj
+1 0 0 1 68.0 664.9 Tm
+(sub-estimates together right now?) Tj
+ET
+0.100 0.100 0.100 rg
+BT
+/F1 10.5 Tf
+1 0 0 1 54.0 647.7 Tm
+(Tom - fallback \(thin website, Clay returns FALLBACK\)) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 651.0 Tm
-(across inboxes.) Tj
+1 0 0 1 68.0 629.2 Tm
+(Hi Tom,) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 634.8 Tm
-() Tj
+1 0 0 1 68.0 613.0 Tm
+(At your bid volume, your precon team is probably spending more time reformatting) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 618.6 Tm
-(The breakdown covers the whole flow. Say the word.) Tj
+1 0 0 1 68.0 596.8 Tm
+(sub bids than pricing the work. How is your team pulling sub-estimates together) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 602.4 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 586.2 Tm
-(Dan) Tj
+1 0 0 1 68.0 580.6 Tm
+(right now?) Tj
 ET
 0.478 0.122 0.239 rg
 BT
-/F2 10.5 Tf
-1 0 0 1 54.0 566.0 Tm
-(Spintax) Tj
+/F2 11.0 Tf
+1 0 0 1 54.0 557.4 Tm
+(Email 2, rendered \(opener line only\)) Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 548.0 Tm
-(Hi {{first_name}},) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 539.4 Tm
+(- Mike: "You are bidding healthcare and civil work that a dozen other GCs in the Carolinas) Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 531.8 Tm
-() Tj
+/F1 10.5 Tf
+1 0 0 1 62.0 524.9 Tm
+(are chasing too.") Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 515.6 Tm
-({One more angle, then I will leave it.|One more thing worth raising.}) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 507.4 Tm
+(- Sarah: "In a multifamily market as busy as New England's, the GC who gets a clean bid in) Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 499.4 Tm
-() Tj
+/F1 10.5 Tf
+1 0 0 1 62.0 492.9 Tm
+(first usually gets the call.") Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 483.2 Tm
-(The real cost of manual bid assembly is not the hours. It is speed. When a bid) Tj
+/F1 10.5 Tf
+1 0 0 1 54.0 475.4 Tm
+(- Tom \(fallback\): "At your volume, the gap between winning work and processing it fast) Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F3 9.0 Tf
-1 0 0 1 68.0 467.0 Tm
-(tab takes your team {two days|a day or two} to build and could be done in) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 450.8 Tm
-(minutes, the other GC gets in front of the client first.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 434.6 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 418.4 Tm
-(We handle the intake side too: every invited sub gets reached by phone, email,) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 402.2 Tm
-(and text, and they submit through one portal instead of {you chasing files) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 386.0 Tm
-(across inboxes|chasing files across inboxes}.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 369.8 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 353.6 Tm
-({The breakdown covers the whole flow.|The one-page breakdown covers all of it.}) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 337.4 Tm
-(Say the word.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 321.2 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 305.0 Tm
-(Dan) Tj
+/F1 10.5 Tf
+1 0 0 1 62.0 460.9 Tm
+(enough starts costing real money.") Tj
 ET
 0.478 0.122 0.239 rg
 BT
-/F2 14.0 Tf
-1 0 0 1 54.0 276.8 Tm
-(Tightened Clay opener prompt \(Touch 1\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 253.8 Tm
-(You are writing the first line of a cold email to {{first_name}}, {{title}}) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 237.6 Tm
-(at {{company}}, a commercial construction company. Source text from their) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 221.4 Tm
-(site: {{scraped_text}}.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 205.2 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 189.0 Tm
-(Write ONE sentence, 20 words max, naming something concrete and specific: the) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 172.8 Tm
-(sectors they build in \(healthcare, civil, multifamily, education\), their) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 156.6 Tm
-(region, their project types, or a recent project or award. Connect that detail) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 140.4 Tm
-(to the volume of sub-estimates their precon team handles.) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 124.2 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 108.0 Tm
-(It must read as a natural lead-in to: "How is your team pulling sub-estimates) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 91.8 Tm
-(together right now?") Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 75.6 Tm
-() Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 59.4 Tm
-(Only facts present in the source. No compliments, no adjectives like) Tj
-ET
-endstream
-endobj
-9 0 obj
-<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 8 0 R >>
-endobj
-10 0 obj
-<< /Length 1707 >>
-stream
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 732.0 Tm
-("impressive" or "leading", no em dashes, no numbers you cannot verify. If) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F3 9.0 Tf
-1 0 0 1 68.0 715.8 Tm
-(nothing specific is usable, output FALLBACK.) Tj
+/F2 11.0 Tf
+1 0 0 1 54.0 435.4 Tm
+(Specialty-trades swap \(HVAC / plumbing / roofing\)) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F1 10.5 Tf
-1 0 0 1 54.0 698.6 Tm
-(Fallback \(role-level, no fabrication\):) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 679.1 Tm
-(At your bid volume, your precon team is probably spending more time reformatting sub bids than) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 664.6 Tm
-(pricing the work.) Tj
-ET
-0.478 0.122 0.239 rg
-BT
-/F2 14.0 Tf
-1 0 0 1 54.0 634.1 Tm
-(Specialty-trades swap \(HVAC / plumbing / roofing, $5M+\)) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 610.1 Tm
-(For trade contractors who estimate per job rather than consolidating subs, swap the opener-) Tj
-ET
-0.100 0.100 0.100 rg
-BT
-/F1 10.5 Tf
-1 0 0 1 54.0 595.6 Tm
-(question and pain line. Replace the opener-question with:) Tj
+1 0 0 1 54.0 415.4 Tm
+(Swap the Email 1 question for:) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 577.1 Tm
+1 0 0 1 68.0 396.9 Tm
 ({{AI_OPENER}} How is your team putting together the quotes for each bid right now?) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F1 10.5 Tf
-1 0 0 1 54.0 559.9 Tm
-(And the pain line:) Tj
+1 0 0 1 54.0 379.7 Tm
+(Rendered - Dave, roofing, $12M, North Jersey:) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 541.4 Tm
-(Most {{trade_or_sector}} teams still build every quote by hand, pulling) Tj
+1 0 0 1 68.0 361.2 Tm
+(Hi Dave,) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 525.2 Tm
-(pricing and scopes from a stack of supplier emails and spreadsheets for each) Tj
+1 0 0 1 68.0 345.0 Tm
+(You run commercial re-roofing across North Jersey, so you are pricing a stack of) Tj
 ET
 0.100 0.100 0.100 rg
 BT
 /F3 9.0 Tf
-1 0 0 1 68.0 509.0 Tm
-(job.) Tj
+1 0 0 1 68.0 328.8 Tm
+(material and crew quotes for every job. How is your team putting together the) Tj
 ET
 0.100 0.100 0.100 rg
 BT
-/F1 10.5 Tf
-1 0 0 1 54.0 491.8 Tm
-(Everything else in Touch 1 / Touch 2 stays the same.) Tj
+/F3 9.0 Tf
+1 0 0 1 68.0 312.6 Tm
+(quotes for each bid right now?) Tj
 ET
 endstream
 endobj
+9 0 obj
+<< /Type /Page /Parent 10 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Type /Pages /Count 3 /Kids [5 0 R 7 0 R 9 0 R] >>
+endobj
 11 0 obj
-<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 10 0 R >>
-endobj
-12 0 obj
-<< /Type /Pages /Count 4 /Kids [5 0 R 7 0 R 9 0 R 11 0 R] >>
-endobj
-13 0 obj
-<< /Type /Catalog /Pages 12 0 R >>
+<< /Type /Catalog /Pages 10 0 R >>
 endobj
 xref
-0 14
+0 12
 0000000000 65535 f 
 0000000009 00000 n 
 0000000079 00000 n 
 0000000154 00000 n 
 0000000222 00000 n 
-0000004528 00000 n 
-0000004675 00000 n 
-0000008899 00000 n 
-0000009046 00000 n 
-0000013390 00000 n 
-0000013537 00000 n 
-0000015297 00000 n 
-0000015446 00000 n 
-0000015523 00000 n 
+0000004298 00000 n 
+0000004445 00000 n 
+0000008980 00000 n 
+0000009127 00000 n 
+0000012117 00000 n 
+0000012264 00000 n 
+0000012334 00000 n 
 trailer
-<< /Size 14 /Root 13 0 R >>
+<< /Size 12 /Root 11 0 R >>
 startxref
-15574
+12385
 %%EOF

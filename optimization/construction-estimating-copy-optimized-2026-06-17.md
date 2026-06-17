@@ -1,168 +1,140 @@
-# Construction Estimating — Optimized Cold Copy
+# Construction Estimating — Optimized Cold Copy (v2)
 
 _Optimized: 2026-06-17 | Campaign: Construction Estimating (commercial GCs) | Sender: Dan Rubenstein_
-_Source copy: RubeTech Campaigns sheet (Construction Estimating tab)_
-_Context pulled from: June 10 Weekly Sync (Dan's estimating pain + proof) + Campaign Strategy v2 handover (Joey's documented pain points)_
 
-## What changed and why
-
-Three asks from Matteo: **remove spam words, cut length, make it really personalised.**
-
-**1. Spam words / deliverability triggers removed from Touch 1**
-Cold-email filters and human "this is a pitch" radar both react to dollar figures, percentages, and quantified-savings claims stacked in the first email. Pulled out of Touch 1:
-- `$50M+`, `$1.3M` (dollar signs)
-- `75%` (percentage)
-- `20+ hours a week` (quantified-savings claim up front)
-- `save` / `saved`
-- softened `custom AI estimating engine` → plain language. Dan's own note on the June 10 call: a generic "just another AI message" is what kills these. Leading with "AI" reads like every other tool in their inbox. The hard numbers and the "AI" framing still live in the **one-page breakdown PDF** — which is where a warm, opted-in reader actually wants them.
-
-**2. Length**
-Touch 1 went from ~150 words to ~90. Touch 2 from ~120 to ~80. Every sentence now earns its place. One idea per paragraph, one ask.
-
-**3. Personalisation**
-- Tightened the Clay opener prompt to force a *concrete* detail (sector, region, project type, recent award) instead of a vague compliment, and capped it at 20 words so it reads like a peer wrote it.
-- The pain line now mirrors *their* Tuesday ("an estimator loses half the week"), not a generic stat.
-- Added an optional second merge (`{{trade_or_sector}}`) for the specialty-trades variant so HVAC/plumbing/roofing reads native, not retrofitted.
-
-Rules kept from the sending playbook: no em dashes, zero links in Touch 1, thread stays intact, personalise Touch 1 only.
+Tighter copy, two distinct angles, no follow-up language anywhere. Every email opens with one AI-written line personalised to the prospect's company. Structure first, then rendered examples.
 
 ---
 
-## Subject lines (Touch 1 — test two, split evenly)
-- `sub-estimates at {{company}}`
-- `the bid that gets there first`
+## Email 1 — the manual consolidation pain
 
----
-
-## Touch 1 — Day 0 (plain reference)
+Subject A: `sub-estimates at {{company}}`
+Subject B: `the bid that gets there first`
 
 ```
 Hi {{first_name}},
 
 {{AI_OPENER}} How is your team pulling sub-estimates together right now?
 
-Most precon teams still do it by hand. A sub sends a JPEG, the next a
-spreadsheet, a third a PDF buried in a thread, and an estimator loses half
-the week turning it into one comparable bid tab.
+Most precon teams still do it by hand: a JPEG from one sub, a spreadsheet from
+the next, a PDF buried in a thread, and an estimator stuck turning it all into
+one comparable bid tab.
 
-We built something for a commercial GC that reads every format and structures
-it for them automatically. Their estimators got most of that week back, and
-bids started going out the door first.
+We built a system for a commercial GC that reads every format and structures it
+automatically. The estimator skips the busywork.
 
-I wrote up a one-page breakdown of how it would fit a precon team like yours.
-Want it? One reply.
+Want a one-page breakdown of how it would fit your team?
 
 Dan Rubenstein
-Founder, RubeTech
-Built and sold four companies before this one.
+Founder, RubeTech. Built and sold four companies before this one.
 ```
 
-## Touch 1 — spintax (build with this)
+---
+
+## Email 2 — different angle: lost on speed, not price
+
+Thread reply that reads as a fresh, standalone message.
+
+Subject A: `lost on speed, not price`
+Subject B: `the bid that went out late`
 
 ```
 Hi {{first_name}},
 
-{{AI_OPENER}} How is your team {pulling|putting} sub-estimates together {right now|these days}?
+{{AI_OPENER}}
 
-{Most|Nearly every} precon teams still do it by hand. A sub sends a JPEG, the next a
-spreadsheet, a third a PDF {buried in|lost in} a thread, and an estimator loses {half the week|hours every week}
-turning it into one comparable bid tab.
+GCs your size rarely lose bids on price. They lose them on speed. While your
+estimator spends two days assembling a bid tab by hand, the GC who structured
+theirs in an hour is already in front of the client.
 
-We built something for a commercial GC that reads every format and structures it for them
-automatically. Their estimators got {most of that week|that time} back, and bids started going out {the door first|first}.
+We gave one commercial GC the same estimating team and double the bids out the
+door, with no new hires.
 
-I wrote up a one-page breakdown of how it would fit a precon team like yours. {Want it? One reply.|Say the word and it is in your inbox.}
+Want the one-page breakdown?
 
 Dan Rubenstein
-Founder, RubeTech
-Built and sold four companies before this one.
+RubeTech
 ```
 
 ---
 
-## Touch 2 — Day 4 (thread reply, plain reference)
+## AI personalisation — how it works (structure)
 
+- Every email opens with `{{AI_OPENER}}`: one sentence Clay writes from the prospect's website, slotted as the first line so it reads like Dan wrote it for them.
+- **Email 1 opener:** name a concrete fact (sectors, region, project types) and hand straight into the sub-estimate question.
+- **Email 2 opener:** name a fact tied to their market or bid volume and set up the speed angle.
+- If Clay finds nothing usable it outputs `FALLBACK` (a role-level line, no fabrication).
+- No numbers, awards, or project names unless they appear on the site. A fabricated opener burns the lead.
+
+**Clay prompt — Email 1**
 ```
-Hi {{first_name}},
-
-One more angle, then I will leave it.
-
-The real cost of manual bid assembly is not the hours. It is speed. When a bid
-tab takes your team two days to build and could be done in minutes, the other
-GC gets in front of the client first.
-
-We handle the intake side too: every invited sub gets reached by phone, email,
-and text, and they submit through one portal instead of you chasing files
-across inboxes.
-
-The breakdown covers the whole flow. Say the word.
-
-Dan
+Write the first line of a cold email to {{first_name}}, {{title}} at {{company}},
+a commercial construction company. Source: {{scraped_text}}.
+One sentence, 20 words max. Name something concrete and specific (sectors they
+build in, region, project types, a recent project) and connect it to the volume
+of sub-estimates their precon team handles. It must lead naturally into:
+"How is your team pulling sub-estimates together right now?"
+Only facts from the source. No compliments, no em dashes. If nothing usable,
+output FALLBACK.
 ```
 
-## Touch 2 — spintax
-
+**Clay prompt — Email 2**
 ```
-Hi {{first_name}},
-
-{One more angle, then I will leave it.|One more thing worth raising.}
-
-The real cost of manual bid assembly is not the hours. It is speed. When a bid tab takes
-your team {two days|a day or two} to build and could be done in minutes, the other GC gets
-in front of the client first.
-
-We handle the intake side too: every invited sub gets reached by phone, email, and text, and
-they submit through one portal instead of {you chasing files across inboxes|chasing files across inboxes}.
-
-{The breakdown covers the whole flow.|The one-page breakdown covers all of it.} Say the word.
-
-Dan
+Write the first line of a cold email to {{first_name}}, {{title}} at {{company}},
+a commercial construction company. Source: {{scraped_text}}.
+One sentence, 20 words max. Name something about their market, growth, or bid
+volume and connect it to bid speed being a competitive edge. It must lead into a
+point about losing bids on speed rather than price.
+Only facts from the source. No compliments, no em dashes. If nothing usable,
+output FALLBACK.
 ```
 
 ---
 
-## Tightened Clay opener prompt (Touch 1)
+## Rendered examples (illustrative — three sample prospects)
 
-Forces a concrete, source-backed detail and a clean hand-off into the question.
+### Email 1, rendered
 
+**Mike — VP Precon, healthcare/civil GC, Carolinas**
 ```
-You are writing the first line of a cold email to {{first_name}}, {{title}} at
-{{company}}, a commercial construction company. Source text from their site:
-{{scraped_text}}.
-
-Write ONE sentence, 20 words max, naming something concrete and specific: the
-sectors they build in (healthcare, civil, multifamily, education), their region,
-their project types, or a recent project or award. Connect that detail to the
-volume of sub-estimates their precon team handles.
-
-It must read as a natural lead-in to: "How is your team pulling sub-estimates
-together right now?"
-
-Only facts present in the source. No compliments, no adjectives like
-"impressive" or "leading", no em dashes, no numbers you cannot verify. If nothing
-specific is usable, output FALLBACK.
+Hi Mike,
+You run commercial healthcare and civil work across the Carolinas, so a lot of
+trades feed into every bid. How is your team pulling sub-estimates together
+right now?
 ```
 
-**Fallback (role-level, no fabrication):**
-> At your bid volume, your precon team is probably spending more time reformatting sub bids than pricing the work.
+**Sarah — Chief Estimator, multifamily builder, New England**
+```
+Hi Sarah,
+With the multifamily and mixed-use volume you are putting up across New England,
+your estimators are fielding sub bids in every format. How is your team pulling
+sub-estimates together right now?
+```
 
----
+**Tom — fallback (thin website, Clay returns FALLBACK)**
+```
+Hi Tom,
+At your bid volume, your precon team is probably spending more time reformatting
+sub bids than pricing the work. How is your team pulling sub-estimates together
+right now?
+```
 
-## Specialty-trades swap (HVAC / plumbing / roofing, $5M+)
+### Email 2, rendered (opener line only)
 
-For trade contractors who estimate per job rather than consolidating subs, swap the
-opener-question and pain line. Replace `{{AI_OPENER}} How is your team pulling sub-estimates together right now?`
-with:
+- **Mike:** "You are bidding healthcare and civil work that a dozen other GCs in the Carolinas are chasing too."
+- **Sarah:** "In a multifamily market as busy as New England's, the GC who gets a clean bid in first usually gets the call."
+- **Tom (fallback):** "At your volume, the gap between winning work and processing it fast enough starts costing real money."
 
+### Specialty-trades swap (HVAC / plumbing / roofing)
+
+Swap the Email 1 question for:
 ```
 {{AI_OPENER}} How is your team putting together the quotes for each bid right now?
 ```
-
-And the pain line:
-
+Rendered — **Dave, roofing, $12M, North Jersey:**
 ```
-Most {{trade_or_sector}} teams still build every quote by hand, pulling pricing
-and scopes from a stack of supplier emails and spreadsheets for each job.
+Hi Dave,
+You run commercial re-roofing across North Jersey, so you are pricing a stack of
+material and crew quotes for every job. How is your team putting together the
+quotes for each bid right now?
 ```
-
-Everything else in Touch 1 / Touch 2 stays the same.
